@@ -8,3 +8,5 @@ program reset the automata (this includes emptying the stack if necessary) and p
 the next string.
 
 More detail provided by screenshots.
+
+![dpda1](https://user-images.githubusercontent.com/78223231/152592926-1796d0b6-b940-4ed4-88d4-96e23e3204bd.PNG)
